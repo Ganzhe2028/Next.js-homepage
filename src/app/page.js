@@ -16,16 +16,28 @@ export default function Home() {
           Hi There! My Name is Isaac Bao.
         </h2>
         <ol className="font-mono list-inside list-decimal text-sm/6 text-center sm:text-left">
-          <li className="mb-2 tracking-[-.01em]">
-            This is my first Next.js website!
+          <ul className="mb-2 tracking-[-.01em]">
+            This is my first Next.js website. Hope to learn more!
             {/* <code className="bg-black/[.05] dark:bg-white/[.06] font-mono font-semibold px-1 py-0.5 rounded">
               src/app/page.js
             </code> */}
             {/* . */}
-          </li>
-          <li className="tracking-[-.01em]">
-            Hope to learn more about Next.js!
-          </li>
+          </ul>
+            <ul className="mb-2 tracking-[-.01em]">
+              - Check My Bio: <a href="https://bonjour/bio/ganzhe" className="bold text-[#008CFF]">Bonjour!</a>
+            </ul>
+            <ul className="mb-2 tracking-[-.01em]">
+              - Blog Website: <a href="https://isaacbao.cn/" className="bold text-[#008CFF]">blog.isaacbao.cn</a> or <a href="https://ganzhe.site" className="bold text-[#008CFF]">ganzhe.site</a>
+            </ul>
+            <ul className="mb-2 tracking-[-.01em]">
+              - GitHub: <a href="https://github.com/ganzhe2028" className="bold text-[#008CFF]">Ganzhe2028</a>
+            </ul>
+            <ul className="mb-2 tracking-[-.01em]">
+              - Email: <a href="mailto:isaacbao2025@outlook.com" className="bold text-[#008CFF]">isaacbao2025@outlook.com</a> or <a href="mailto:isaacbao2028@gmail.com" className="bold text-[#008CFF]">isaacbao2028@gmail.com</a>
+            </ul>
+          <ul className="mb-2 tracking-[-.01em] font-bold">
+            Enjoy your day!
+          </ul>
         </ol>
 
         {/* <div className="flex gap-4 items-center flex-col sm:flex-row">
