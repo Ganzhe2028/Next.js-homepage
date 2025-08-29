@@ -35,7 +35,7 @@ export default function Home() {
             <ul className="mb-2 tracking-[-.01em]">
               - Email: <a href="mailto:isaacbao2025@outlook.com" className="bold text-[#008CFF]">isaacbao2025@outlook.com</a> or <a href="mailto:isaacbao2028@gmail.com" className="bold text-[#008CFF]">isaacbao2028@gmail.com</a>
             </ul>
-          <ul className="mb-2 tracking-[-.01em] font-bold">
+          <ul className="mb-4 tracking-[-.01em] font-bold">
             Enjoy your day!
           </ul>
         </ol>
