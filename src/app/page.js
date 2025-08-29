@@ -23,21 +23,51 @@ export default function Home() {
             </code> */}
             {/* . */}
           </ul>
-            <ul className="mb-2 tracking-[-.01em]">
-              - Check My Bio: <a href="https://bonjour.bio/ganzhe" className="bold text-[#008CFF]">Bonjour!</a>
-            </ul>
-            <ul className="mb-2 tracking-[-.01em]">
-              - Blog Website: <a href="https://blog.isaacbao.cn/" className="bold text-[#008CFF]">blog.isaacbao.cn</a> or <a href="https://ganzhe.site" className="bold text-[#008CFF]">ganzhe.site</a>
-            </ul>
-            <ul className="mb-2 tracking-[-.01em]">
-              - GitHub: <a href="https://github.com/ganzhe2028" className="bold text-[#008CFF]">Ganzhe2028</a>
-            </ul>
-            <ul className="mb-2 tracking-[-.01em]">
-              - Email: <a href="mailto:isaacbao2025@outlook.com" className="bold text-[#008CFF]">isaacbao2025@outlook.com</a> or <a href="mailto:isaacbao2028@gmail.com" className="bold text-[#008CFF]">isaacbao2028@gmail.com</a>
-            </ul>
-          <ul className="mb-4 tracking-[-.01em] font-bold">
-            Enjoy your day!
+          <ul className="mb-2 tracking-[-.01em]">
+            - Check My Bio:{" "}
+            <a
+              href="https://bonjour.bio/ganzhe"
+              className="bold text-[#008CFF]"
+            >
+              Bonjour!
+            </a>
           </ul>
+          <ul className="mb-2 tracking-[-.01em]">
+            - Blog Website:{" "}
+            <a href="https://blog.isaacbao.cn/" className="bold text-[#008CFF]">
+              blog.isaacbao.cn
+            </a>{" "}
+            or{" "}
+            <a href="https://ganzhe.site" className="bold text-[#008CFF]">
+              ganzhe.site
+            </a>
+          </ul>
+          <ul className="mb-2 tracking-[-.01em]">
+            - GitHub:{" "}
+            <a
+              href="https://github.com/ganzhe2028"
+              className="bold text-[#008CFF]"
+            >
+              Ganzhe2028
+            </a>
+          </ul>
+          <ul className="mb-2 tracking-[-.01em]">
+            - Email:{" "}
+            <a
+              href="mailto:isaacbao2025@outlook.com"
+              className="bold text-[#008CFF]"
+            >
+              isaacbao2025@outlook.com
+            </a>{" "}
+            or{" "}
+            <a
+              href="mailto:isaacbao2028@gmail.com"
+              className="bold text-[#008CFF]"
+            >
+              isaacbao2028@gmail.com
+            </a>
+          </ul>
+          <ul className="mb-4 tracking-[-.01em] font-bold">Enjoy your day!</ul>
         </ol>
 
         {/* <div className="flex gap-4 items-center flex-col sm:flex-row">

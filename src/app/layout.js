@@ -13,7 +13,8 @@ const geistMono = Geist_Mono({
 
 export const metadata = {
   title: "Isaac Bao",
-  description: "Welcome to Isaac Bao's personal homepage — a space to share projects, writings, and ideas.",
+  description:
+    "Welcome to Isaac Bao's personal homepage — a space to share projects, writings, and ideas.",
 };
 
 export default function RootLayout({ children }) {
