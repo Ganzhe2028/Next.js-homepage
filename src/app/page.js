@@ -27,7 +27,7 @@ export default function Home() {
               - Check My Bio: <a href="https://bonjour.bio/ganzhe" className="bold text-[#008CFF]">Bonjour!</a>
             </ul>
             <ul className="mb-2 tracking-[-.01em]">
-              - Blog Website: <a href="https://isaacbao.cn/" className="bold text-[#008CFF]">blog.isaacbao.cn</a> or <a href="https://ganzhe.site" className="bold text-[#008CFF]">ganzhe.site</a>
+              - Blog Website: <a href="https://blog.isaacbao.cn/" className="bold text-[#008CFF]">blog.isaacbao.cn</a> or <a href="https://ganzhe.site" className="bold text-[#008CFF]">ganzhe.site</a>
             </ul>
             <ul className="mb-2 tracking-[-.01em]">
               - GitHub: <a href="https://github.com/ganzhe2028" className="bold text-[#008CFF]">Ganzhe2028</a>
