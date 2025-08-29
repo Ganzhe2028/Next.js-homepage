@@ -17,7 +17,7 @@ export default function Home() {
         </h2>
         <ol className="font-mono list-inside list-decimal text-sm/6 text-center sm:text-left">
           <ul className="mb-2 tracking-[-.01em]">
-            This is my first Next.js website. Hope to learn more!
+            This is my first Next.js website. Hope to learn more about it!
             {/* <code className="bg-black/[.05] dark:bg-white/[.06] font-mono font-semibold px-1 py-0.5 rounded">
               src/app/page.js
             </code> */}
