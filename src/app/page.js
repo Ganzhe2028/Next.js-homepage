@@ -25,7 +25,7 @@ export default function Home() {
             {/* . */}
           </ul>
           <ul className="mb-2 tracking-[-.01em]">
-            - Check My Bio:{" "}
+            - check my bio:{" "}
             <a
               href="https://bonjour.bio/ganzhe"
               className="font-bold text-[#008CFF]"
@@ -34,41 +34,43 @@ export default function Home() {
             </a>
           </ul>
           <ul className="mb-2 tracking-[-.01em]">
-            - Blog Website:{" "}
+            - blog:{" "}
             <a href="https://blog.isaacbao.cn/" className="text-[#008CFF]">
-              blog.isaacbao.cn
+              Site 1
             </a>{" "}
-            or{" "}
+            |{" "}
             <a href="https://ganzhe.site" className="text-[#008CFF]">
-              ganzhe.site
+              Site 2
             </a>
           </ul>
           <ul className="mb-2 tracking-[-.01em]">
-            - GitHub:{" "}
-            <a
-              href="https://github.com/ganzhe2028"
-              className="text-[#008CFF]"
-            >
-              Ganzhe2028
+            -{" "}
+            <a href="https://github.com/ganzhe2028" className="text-[#008CFF]">
+              GitHub
             </a>
           </ul>
           <ul className="mb-2 tracking-[-.01em]">
-            - Email:{" "}
-            <a
-              href="mailto:isaacbao2025@outlook.com"
-              className="text-[#008CFF]"
-            >
-              isaacbao2025@outlook.com
-            </a>{" "}
-            or{" "}
-            <a
-              href="mailto:isaacbao2028@gmail.com"
-              className="text-[#008CFF]"
-            >
-              isaacbao2028@gmail.com
-            </a>
+            - Feel free to contact me:
+            <ul>
+              &nbsp; -{" "}
+              <a
+                href="mailto:isaacbao2025@outlook.com"
+                className="text-[#008CFF]"
+              >
+                isaacbao2025@outlook.com
+              </a>{" "}
+            </ul>
+            <ul>
+              &nbsp; -{" "}
+              <a
+                href="mailto:isaacbao2028@gmail.com"
+                className="text-[#008CFF]"
+              >
+                isaacbao2028@gmail.com
+              </a>
+            </ul>
           </ul>
-          <ul className="mb-4 tracking-[-.01em] font-bold">Enjoy your day!</ul>
+          <ul className="mb-4 tracking-[-.01em] font-bold">Have a nice day!</ul>
         </ol>
         {/* </div> */}
 
