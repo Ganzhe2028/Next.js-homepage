@@ -15,7 +15,8 @@ export default function Home() {
         <h2 className="text-3xl font-bold mb-2">
           Hi There! My Name is Isaac Bao.
         </h2>
-        <ol className="font-mono list-inside list-decimal text-sm/6 text-center sm:text-left">
+        {/* <div className=""> */}
+        <ol className="font-mono list-inside list-decimal text-sm/6 text-left">
           <ul className="mb-2 tracking-[-.01em]">
             This is my first Next.js website. Hope to learn more about it!
             {/* <code className="bg-black/[.05] dark:bg-white/[.06] font-mono font-semibold px-1 py-0.5 rounded">
@@ -27,18 +28,18 @@ export default function Home() {
             - Check My Bio:{" "}
             <a
               href="https://bonjour.bio/ganzhe"
-              className="bold text-[#008CFF]"
+              className="font-bold text-[#008CFF]"
             >
               Bonjour!
             </a>
           </ul>
           <ul className="mb-2 tracking-[-.01em]">
             - Blog Website:{" "}
-            <a href="https://blog.isaacbao.cn/" className="bold text-[#008CFF]">
+            <a href="https://blog.isaacbao.cn/" className="text-[#008CFF]">
               blog.isaacbao.cn
             </a>{" "}
             or{" "}
-            <a href="https://ganzhe.site" className="bold text-[#008CFF]">
+            <a href="https://ganzhe.site" className="text-[#008CFF]">
               ganzhe.site
             </a>
           </ul>
@@ -46,7 +47,7 @@ export default function Home() {
             - GitHub:{" "}
             <a
               href="https://github.com/ganzhe2028"
-              className="bold text-[#008CFF]"
+              className="text-[#008CFF]"
             >
               Ganzhe2028
             </a>
@@ -55,20 +56,21 @@ export default function Home() {
             - Email:{" "}
             <a
               href="mailto:isaacbao2025@outlook.com"
-              className="bold text-[#008CFF]"
+              className="text-[#008CFF]"
             >
               isaacbao2025@outlook.com
             </a>{" "}
             or{" "}
             <a
               href="mailto:isaacbao2028@gmail.com"
-              className="bold text-[#008CFF]"
+              className="text-[#008CFF]"
             >
               isaacbao2028@gmail.com
             </a>
           </ul>
           <ul className="mb-4 tracking-[-.01em] font-bold">Enjoy your day!</ul>
         </ol>
+        {/* </div> */}
 
         {/* <div className="flex gap-4 items-center flex-col sm:flex-row">
           <a
