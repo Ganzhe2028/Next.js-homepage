@@ -36,11 +36,11 @@ export default function Home() {
           <ul className="mb-2 tracking-[-.01em]">
             - blog:{" "}
             <a href="https://blog.isaacbao.cn/" className="text-[#008CFF]">
-              Site 1
+              CN-site
             </a>{" "}
             |{" "}
             <a href="https://ganzhe.site" className="text-[#008CFF]">
-              Site 2
+              EN-site
             </a>
           </ul>
           <ul className="mb-2 tracking-[-.01em]">
