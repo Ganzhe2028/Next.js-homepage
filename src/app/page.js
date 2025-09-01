@@ -17,25 +17,19 @@ export default function Home() {
         </h2>
         {/* <div className=""> */}
         <ol className="font-mono list-inside list-decimal text-sm/6 text-left">
-          <ul className="mb-2 tracking-[-.01em]">
+
+          <ul className="mb-2 tracking-[-.01em] mb-4">
             This is my first Next.js website. Hope to learn more about it!
             {/* <code className="bg-black/[.05] dark:bg-white/[.06] font-mono font-semibold px-1 py-0.5 rounded">
               src/app/page.js
             </code> */}
             {/* . */}
           </ul>
+
           <ul className="mb-2 tracking-[-.01em]">
-            - Check my bio:{" "}
-            <a
-              href="https://bonjour.bio/ganzhe"
-              className="font-bold text-[#008CFF]"
-            >
-              Bonjour!
-            </a>
-          </ul>
-          <ul className="mb-2 tracking-[-.01em]">
-            - <a href="https://blog.isaacbao.cn/" className="text-[#008CFF]">
-              My blog
+            - Blog:{" "}
+            <a href="https://blog.isaacbao.cn/" className="text-[#008CFF]">
+              blog.isaacbao.cn
             </a>
             {/* {" "} */}
             {/* |{" "}
@@ -43,16 +37,38 @@ export default function Home() {
               site-Worldwide
             </a> */}
           </ul>
+
+          <ul className="mb-2 tracking-[-.01em]">
+            - Bio:{" "}
+            <a
+              href="https://bonjour.bio/ganzhe"
+              className="font-bold text-[#008CFF]"
+            >
+              Bonjour!
+            </a>
+          </ul>
+
+          <ul className="mb-2 tracking-[-.01em]">
+            - CV:{" "}
+            <a
+              href="https://m0dorknyq14.feishu.cn/docx/G4xZdiskLo2Xk4xnas7cgIgInod?from=from_copylink"
+              className="text-[#008CFF]"
+            >
+              Feishu Docs
+            </a>
+          </ul>
+
           <ul className="mb-2 tracking-[-.01em]">
             -{" "}
             <a href="https://github.com/ganzhe2028" className="text-[#008CFF]">
               GitHub
             </a>
           </ul>
+
           <ul className="mb-2 tracking-[-.01em]">
             - Feel free to contact me:
             <ul>
-              &nbsp; -{" "}
+              &nbsp;&nbsp;
               <a
                 href="mailto:isaacbao2025@outlook.com"
                 className="text-[#008CFF]"
@@ -61,7 +77,7 @@ export default function Home() {
               </a>{" "}
             </ul>
             <ul>
-              &nbsp; -{" "}
+              &nbsp;&nbsp;
               <a
                 href="mailto:isaacbao2028@gmail.com"
                 className="text-[#008CFF]"
@@ -70,7 +86,7 @@ export default function Home() {
               </a>
             </ul>
           </ul>
-          <ul className="mb-4 tracking-[-.01em] font-bold">Have a nice day!</ul>
+          <ul className="mb-4 tracking-[-.01em] font-bold mt-4">Have a nice day!</ul>
         </ol>
         {/* </div> */}
 
