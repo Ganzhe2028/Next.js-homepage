@@ -25,7 +25,7 @@ export default function Home() {
             {/* . */}
           </ul>
           <ul className="mb-2 tracking-[-.01em]">
-            - check my bio:{" "}
+            - Check my bio:{" "}
             <a
               href="https://bonjour.bio/ganzhe"
               className="font-bold text-[#008CFF]"
@@ -34,14 +34,14 @@ export default function Home() {
             </a>
           </ul>
           <ul className="mb-2 tracking-[-.01em]">
-            - blog:{" "}
-            <a href="https://blog.isaacbao.cn/" className="text-[#008CFF]">
-              site-China
-            </a>{" "}
-            |{" "}
+            - <a href="https://blog.isaacbao.cn/" className="text-[#008CFF]">
+              My blog
+            </a>
+            {/* {" "} */}
+            {/* |{" "}
             <a href="https://ganzhe.site" className="text-[#008CFF]">
               site-Worldwide
-            </a>
+            </a> */}
           </ul>
           <ul className="mb-2 tracking-[-.01em]">
             -{" "}
