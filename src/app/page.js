@@ -71,7 +71,7 @@ export default function Home() {
               &nbsp;&nbsp;
               <a
                 href="mailto:isaacbao2025@outlook.com"
-                className="text-[#008CFF]"
+                className="font-bold text-[#008CFF]"
               >
                 isaacbao2025@outlook.com
               </a>{" "}
