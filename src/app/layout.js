@@ -12,7 +12,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "Isaac Bao",
+  title: "Homepage | Isaac Bao",
   description:
     "Here is Isaac Bao's personal homepage | Grade-10 at Beijing Moonshot Academy(MSA) | UI/UX ✕ Social Science - (Expressive)| Love Building something AMAZING and INSPIRING | Figma, vibe coding, Java, Next.js, blog | @Singularity奇点/@OMNIAPATH-NEXT/@MSA",
 };
