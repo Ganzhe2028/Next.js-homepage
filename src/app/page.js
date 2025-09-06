@@ -12,12 +12,12 @@ export default function Home() {
           height={38}
           priority
         /> */}
-        <h2 className="text-3xl font-bold mb-2 text-[#1F2329]">
+        <h2 className="text-3xl font-bold mb-2">
           Hi There! My Name is Isaac Bao.
         </h2>
         {/* <div className=""> */}
         <ol className="font-mono list-inside list-decimal text-sm/6 text-left">
-          <ul className="mb-2 tracking-[-.01em] mb-4 text-[#1F2329]">
+          <ul className="mb-2 tracking-[-.01em] mb-4">
             This is my first Next.js website. Hope to learn more about it!
             {/* <code className="bg-black/[.05] dark:bg-white/[.06] font-mono font-semibold px-1 py-0.5 rounded">
               src/app/page.js
@@ -27,7 +27,7 @@ export default function Home() {
 
           <ul className="mb-2 tracking-[-.01em]">
             - Blog:{" "}
-            <a href="https://blog.isaacbao.cn/" className="text-[#1456F0]">
+            <a href="https://blog.isaacbao.cn/" className="text-[#0084ffff]">
               blog.isaacbao.cn
             </a>
             {/* {" "} */}
@@ -41,7 +41,7 @@ export default function Home() {
             - Bio:{" "}
             <a
               href="https://bonjour.bio/ganzhe"
-              className="font-bold text-[#1456F0]"
+              className="font-bold text-[#0084ffff]"
             >
               Bonjour!
             </a>
@@ -51,7 +51,7 @@ export default function Home() {
             - CV:{" "}
             <a
               href="https://m0dorknyq14.feishu.cn/docx/G4xZdiskLo2Xk4xnas7cgIgInod?from=from_copylink"
-              className="text-[#1456F0]"
+              className="text-[#0084ffff]"
             >
               Feishu Docs
             </a>
@@ -59,7 +59,7 @@ export default function Home() {
 
           <ul className="mb-2 tracking-[-.01em]">
             -{" "}
-            <a href="https://github.com/ganzhe2028" className="text-[#1456F0]">
+            <a href="https://github.com/ganzhe2028" className="text-[#0084ffff]">
               GitHub
             </a>
           </ul>
@@ -70,7 +70,7 @@ export default function Home() {
               &nbsp;&nbsp;
               <a
                 href="mailto:isaacbao2025@outlook.com"
-                className="font-bold text-[#1456F0]"
+                className="font-bold text-[#0084ffff]"
               >
                 isaacbao2025@outlook.com
               </a>{" "}
@@ -79,13 +79,13 @@ export default function Home() {
               &nbsp;&nbsp;
               <a
                 href="mailto:isaacbao2028@gmail.com"
-                className="text-[#1456F0]"
+                className="text-[#0084ffff]"
               >
                 isaacbao2028@gmail.com
               </a>
             </ul>
           </ul>
-          <ul className="mb-4 tracking-[-.01em] font-bold mt-4 text-[#1F2329]">
+          <ul className="mb-4 tracking-[-.01em] font-bold mt-4">
             Have a nice day!
           </ul>
         </ol>
