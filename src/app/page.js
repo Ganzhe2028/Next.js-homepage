@@ -27,7 +27,7 @@ export default function Home() {
 
           <ul className="mb-2 tracking-[-.01em]">
             - Blog:{" "}
-            <a href="https://blog.isaacbao.cn/" className="text-[#0084ffff]">
+            <a href="https://blog.isaacbao.cn/" className="text-[#0073ffff]">
               blog.isaacbao.cn
             </a>
             {/* {" "} */}
@@ -41,7 +41,7 @@ export default function Home() {
             - Bio:{" "}
             <a
               href="https://bonjour.bio/ganzhe"
-              className="font-bold text-[#0084ffff]"
+              className="font-bold text-[#0073ffff]"
             >
               Bonjour!
             </a>
@@ -51,7 +51,7 @@ export default function Home() {
             - CV:{" "}
             <a
               href="https://m0dorknyq14.feishu.cn/docx/G4xZdiskLo2Xk4xnas7cgIgInod?from=from_copylink"
-              className="text-[#0084ffff]"
+              className="text-[#0073ffff]"
             >
               Feishu Docs
             </a>
@@ -59,7 +59,7 @@ export default function Home() {
 
           <ul className="mb-2 tracking-[-.01em]">
             -{" "}
-            <a href="https://github.com/ganzhe2028" className="text-[#0084ffff]">
+            <a href="https://github.com/ganzhe2028" className="text-[#0073ffff]">
               GitHub
             </a>
           </ul>
@@ -70,7 +70,7 @@ export default function Home() {
               &nbsp;&nbsp;
               <a
                 href="mailto:isaacbao2025@outlook.com"
-                className="font-bold text-[#0084ffff]"
+                className="font-bold text-[#0073ffff]"
               >
                 isaacbao2025@outlook.com
               </a>{" "}
@@ -79,7 +79,7 @@ export default function Home() {
               &nbsp;&nbsp;
               <a
                 href="mailto:isaacbao2028@gmail.com"
-                className="text-[#0084ffff]"
+                className="text-[#0073ffff]"
               >
                 isaacbao2028@gmail.com
               </a>
@@ -89,6 +89,7 @@ export default function Home() {
             Have a nice day!
           </ul>
         </ol>
+        {/* #0073ffff */}
         {/* </div> */}
 
         {/* <div className="flex gap-4 items-center flex-col sm:flex-row">
