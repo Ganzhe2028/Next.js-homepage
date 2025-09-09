@@ -66,15 +66,15 @@ export default function Home() {
 
           <ul className="mb-2 tracking-[-.01em]">
             - Feel free to contact me:
-            <ul>
-              &nbsp;&nbsp;
+            {/* <ul> */}
+              &nbsp;{/* &nbsp; */}
               <a
                 href="mailto:isaacbao2025@outlook.com"
                 className="font-bold text-[#0073ffff]"
               >
                 isaacbao2025@outlook.com
-              </a>{" "}
-            </ul>
+              </a>
+            {/* </ul> */}
             {/* <ul>
               &nbsp;&nbsp;
               <a
