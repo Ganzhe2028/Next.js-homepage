@@ -75,7 +75,7 @@ export default function Home() {
                 isaacbao2025@outlook.com
               </a>{" "}
             </ul>
-            <ul>
+            {/* <ul>
               &nbsp;&nbsp;
               <a
                 href="mailto:isaacbao2028@gmail.com"
@@ -83,7 +83,7 @@ export default function Home() {
               >
                 isaacbao2028@gmail.com
               </a>
-            </ul>
+            </ul> */}
           </ul>
           <ul className="mb-4 tracking-[-.01em] font-bold mt-4">
             Have a nice day!
