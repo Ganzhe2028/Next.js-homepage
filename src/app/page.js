@@ -49,7 +49,7 @@ export default function Home() {
             </a>
           </ul>
           <ul className="mb-2 tracking-[-.01em]">
-            - Feel free to contact me: &nbsp;
+            - Feel free to contact me: 
             <a
               href="mailto:isaacbao2025@outlook.com"
               className="font-bold text-[#0073ffff]"
