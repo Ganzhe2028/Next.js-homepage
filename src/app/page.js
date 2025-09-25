@@ -4,12 +4,12 @@ export default function Home() {
   return (
     <div className="font-sans grid grid-rows-[20px_1fr_20px] items-center justify-items-center min-h-screen p-8 pb-20 gap-16 sm:p-20">
       <main className="flex flex-col gap-[32px] row-start-2 items-center sm:items-start mb-16">
-        <h2 className="text-3xl font-bold mb-2">
-          Hi There! My Name is Isaac Bao.
-        </h2>
+        <h1 className="text-4xl font-extrabold italic">
+          Hi There!
+        </h1>
         <ol className="font-mono list-inside list-decimal text-sm/6 text-left">
           <ul className="mb-2 tracking-[-.01em] mb-4">
-            This is my first Next.js website. Hope to learn more about it!
+            Isaac here | Hope to learn more about Next.js
           </ul>
 
           <ul className="mb-2 tracking-[-.01em]">
