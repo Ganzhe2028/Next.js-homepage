@@ -4,32 +4,32 @@ import "./globals.css";
 const geistSans = nextFontLocal({
   src: [
     {
-      path: "../../.next/fonts/Geist/webfonts/Geist-Regular.woff2",
+      path: "./fonts/Geist-Regular.woff2",
       weight: "400",
       style: "normal",
     },
     {
-      path: "../../.next/fonts/Geist/webfonts/Geist-Medium.woff2",
+      path: "./fonts/Geist-Medium.woff2",
       weight: "500",
       style: "normal",
     },
     {
-      path: "../../.next/fonts/Geist/webfonts/Geist-SemiBold.woff2",
+      path: "./fonts/Geist-SemiBold.woff2",
       weight: "600",
       style: "normal",
     },
     {
-      path: "../../.next/fonts/Geist/webfonts/Geist-Bold.woff2",
+      path: "./fonts/Geist-Bold.woff2",
       weight: "700",
       style: "normal",
     },
     {
-      path: "../../.next/fonts/Geist/webfonts/Geist-BoldItalic.woff2",
+      path: "./fonts/Geist-BoldItalic.woff2",
       weight: "700",
       style: "italic",
     },
     {
-      path: "../../.next/fonts/Geist/webfonts/Geist-ExtraBoldItalic.woff2",
+      path: "./fonts/Geist-ExtraBoldItalic.woff2",
       weight: "800",
       style: "italic",
     },
@@ -40,22 +40,22 @@ const geistSans = nextFontLocal({
 const geistMono = nextFontLocal({
   src: [
     {
-      path: "../../.next/fonts/GeistMono/webfonts/GeistMono-Regular.woff2",
+      path: "./fonts/GeistMono-Regular.woff2",
       weight: "400",
       style: "normal",
     },
     {
-      path: "../../.next/fonts/GeistMono/webfonts/GeistMono-Medium.woff2",
+      path: "./fonts/GeistMono-Medium.woff2",
       weight: "500",
       style: "normal",
     },
     {
-      path: "../../.next/fonts/GeistMono/webfonts/GeistMono-SemiBold.woff2",
+      path: "./fonts/GeistMono-SemiBold.woff2",
       weight: "600",
       style: "normal",
     },
     {
-      path: "../../.next/fonts/GeistMono/webfonts/GeistMono-Bold.woff2",
+      path: "./fonts/GeistMono-Bold.woff2",
       weight: "700",
       style: "normal",
     },
