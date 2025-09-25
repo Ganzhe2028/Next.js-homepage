@@ -1,4 +1,4 @@
-import Image from "next/image";
+// import Image from "next/image";
 
 export default function Home() {
   return (
@@ -14,7 +14,7 @@ export default function Home() {
 
           <ul className="mb-2 tracking-[-.01em]">
             - Blog:{" "}
-            <a href="https://blog.isaacbao.cn/" className="text-[#0073ffff]">
+            <a href="https://blog.isaacbao.cn/" className="text-link">
               blog.isaacbao.cn
             </a>
           </ul>
@@ -23,7 +23,7 @@ export default function Home() {
             - Bio:{" "}
             <a
               href="https://bonjour.bio/ganzhe"
-              className="font-bold text-[#0073ffff]"
+              className="font-bold text-link"
             >
               Bonjour!
             </a>
@@ -33,7 +33,7 @@ export default function Home() {
             - CV:{" "}
             <a
               href="https://m0dorknyq14.feishu.cn/docx/G4xZdiskLo2Xk4xnas7cgIgInod?from=from_copylink"
-              className="text-[#0073ffff]"
+              className="text-link"
             >
               Feishu Docs
             </a>
@@ -43,7 +43,7 @@ export default function Home() {
             -{" "}
             <a
               href="https://github.com/ganzhe2028"
-              className="text-[#0073ffff]"
+              className="text-link"
             >
               GitHub
             </a>
@@ -52,7 +52,7 @@ export default function Home() {
             - Feel free to contact me:&nbsp;
             <a
               href="mailto:isaacbao2025@outlook.com"
-              className="font-bold text-[#0073ffff]"
+              className="font-bold text-link"
             >
               isaacbao2025@outlook.com
             </a>

@@ -1,14 +1,56 @@
-import { Geist, Geist_Mono } from "next/font/google";
+import nextFontLocal from "next/font/local";
 import "./globals.css";
 
-const geistSans = Geist({
+const geistSans = nextFontLocal({
+  src: [
+    {
+      path: "./fonts/Geist-Regular.woff2",
+      weight: "400",
+      style: "normal",
+    },
+    {
+      path: "./fonts/Geist-Medium.woff2",
+      weight: "500",
+      style: "normal",
+    },
+    {
+      path: "./fonts/Geist-SemiBold.woff2",
+      weight: "600",
+      style: "normal",
+    },
+    {
+      path: "./fonts/Geist-Bold.woff2",
+      weight: "700",
+      style: "normal",
+    },
+  ],
   variable: "--font-geist-sans",
-  subsets: ["latin"],
 });
 
-const geistMono = Geist_Mono({
+const geistMono = nextFontLocal({
+  src: [
+    {
+      path: "./fonts/GeistMono-Regular.woff2",
+      weight: "400",
+      style: "normal",
+    },
+    {
+      path: "./fonts/GeistMono-Medium.woff2",
+      weight: "500",
+      style: "normal",
+    },
+    {
+      path: "./fonts/GeistMono-SemiBold.woff2",
+      weight: "600",
+      style: "normal",
+    },
+    {
+      path: "./fonts/GeistMono-Bold.woff2",
+      weight: "700",
+      style: "normal",
+    },
+  ],
   variable: "--font-geist-mono",
-  subsets: ["latin"],
 });
 
 export const metadata = {
