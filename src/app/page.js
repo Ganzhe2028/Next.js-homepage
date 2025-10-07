@@ -8,9 +8,6 @@ export default function Home() {
           Hi There!
         </h1>
         <ol className="font-mono list-inside list-decimal text-sm/6 text-left">
-          <ul className="mb-2 tracking-[-.01em] mb-4">
-            Isaac here | Hope to learn more about Next.js
-          </ul>
 
           <ul className="mb-2 tracking-[-.01em]">
             - Blog:{" "}
