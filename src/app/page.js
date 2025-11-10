@@ -51,7 +51,7 @@ export default function Home() {
               href="mailto:isaacbao2025@outlook.com"
               className="font-bold text-link"
             >
-              isaacbao2025@outlook.com
+              contact@ganzhe.site
             </a>
           </ul>
           <ul className="mb-4 tracking-[-.01em] font-bold mt-4">
