@@ -31,6 +31,10 @@ body {
   font-family: var(--font-geist-sans), sans-serif;
 }
 
+main {
+  padding-left: 8%;
+}
+
 .text-link {
   color: var(--link-light);
 }

@@ -10,14 +10,7 @@ export default function Home() {
         <ol className="font-mono list-inside list-decimal text-sm/6 text-left">
 
           <ul className="mb-2 tracking-[-.01em]">
-            - Blog:{" "}
-            <a href="https://blog.isaacbao.cn/" className="text-link">
-              blog.isaacbao.cn
-            </a>
-          </ul>
-
-          <ul className="mb-2 tracking-[-.01em]">
-            - Bio:{" "}
+            Bio:{" "}
             <a
               href="https://bonjour.bio/ganzhe"
               className="font-bold text-link"
@@ -27,17 +20,31 @@ export default function Home() {
           </ul>
 
           <ul className="mb-2 tracking-[-.01em]">
-            - CV:{" "}
+            Blog:{" "}
+            <a href="https://blog.isaacbao.cn/" className="text-link">
+              blog.isaacbao.cn
+            </a>
+          </ul>
+
+          <ul className="mb-2 tracking-[-.01em]">
+            Working on:{" "}
+            <a
+              href="https://ms.isaacbao.cn"
+              className="text-link"
+            >
+              M👀nrise Studio
+            </a>
+          </ul>
+
+          <ul className="mb-2 tracking-[-.01em]">
+            Info: {""}
             <a
               href="https://m0dorknyq14.feishu.cn/docx/G4xZdiskLo2Xk4xnas7cgIgInod?from=from_copylink"
               className="text-link"
             >
               Feishu Docs
             </a>
-          </ul>
-
-          <ul className="mb-2 tracking-[-.01em]">
-            -{" "}
+            {" | "}
             <a
               href="https://github.com/ganzhe2028"
               className="text-link"
@@ -45,11 +52,21 @@ export default function Home() {
               GitHub
             </a>
           </ul>
+
+          {/* <ul className="mb-2 tracking-[-.01em]">
+            <a
+              href="https://github.com/ganzhe2028"
+              className="text-link"
+            >
+              GitHub
+            </a>
+          </ul> */}
+
           <ul className="mb-2 tracking-[-.01em]">
-            - Feel free to contact me:&nbsp;
+            Feel free to contact me:&nbsp;
             <a
               href="mailto:isaacbao2025@outlook.com"
-              className="font-bold text-link"
+              className="text-link"
             >
               contact@ganzhe.site
             </a>
