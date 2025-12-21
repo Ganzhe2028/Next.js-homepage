@@ -66,7 +66,7 @@ const geistMono = nextFontLocal({
 export const metadata = {
   title: "Homepage | Isaac Bao",
   description:
-    "Here is Isaac Bao's personal homepage | Beijing Moonshot Academy (MSA) | UI/UX ✕ Social Science - (Expressive)| Love Building something AMAZING and INSPIRING | Figma, vibe coding, Java, Next.js, blog | @Singularity奇点/@OMNIAPATH-NEXT/@MSA",
+    "Here is Isaac Bao's personal homepage | Moonshot Academy (MSA) | Core@MoonriseStudio/M👀nrise",
 };
 
 export default function RootLayout({ children }) {
